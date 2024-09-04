@@ -1,0 +1,36 @@
+.about-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-head{
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+
+.about-head-2{
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.list{
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.list li {
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #0066cc;
+}
